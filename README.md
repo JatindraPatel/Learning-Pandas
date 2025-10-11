@@ -1,4 +1,4 @@
-#**Learning Pandas**
+#Learning Pandas
 
 
 Welcome to the Learning Pandas repository!
